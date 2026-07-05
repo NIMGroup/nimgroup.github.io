@@ -6,6 +6,7 @@ hidemeta: true
 
 | Date      |     | News                                                                                                                     |
 | :-------- | :-- | :----------------------------------------------------------------------------------------------------------------------- |
+| June 2026 |     | :sparkles: One paper was accepted by `MICCAI 2026`                                                                       |
 | June 2026 |     | :sparkles: One paper was accepted by `iScience`                                                                          |
 | May 2026  |     | :sparkles: One paper was accepted by `Alpha Psychiatry`                                                                  |
 | May 2026  |     | :sparkles: Two papers were accepted by `ICIP 2026`                                                                       |
@@ -39,7 +40,7 @@ hidemeta: true
 | Sep 2025  |     | :boom: Yujie Wang, Yiru Deng, and Shuomeng Ren joined us as `Master student`, supervised by Prof. Jiaolong Qin. Welcome! |
 | Aug 2025  |     | :boom: Chengzhe Zhang joined us as `Ph.D student`, supervised by Prof. Ye Wu. Welcome!                                   |
 | Aug 2025  |     | :sound: Prof. Ye Wu starts services to `Alpha Psychiatry` as a Young Editorial Board Member                              |
-| Jul 2025  |     | :sparkles: Three papers were accepted by `IST`                                                                           |
+| Jul 2025  |     | :sparkles: Three papers were accepted by `IST 2025`                                                                      |
 | Jul 2025  |     | :sparkles: One paper was accepted by `Journal of Affective Disorders`                                                    |
 | Jul 2025  |     | :sparkles: A new chapter was published by `Neuroimaging - From Research to Clinical Practice` ISBN：978-1-83634-748-4    |
 | Jun 2025  |     | :sparkles: One paper was accepted by `Neuroimage`                                                                        |
