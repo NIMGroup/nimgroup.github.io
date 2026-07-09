@@ -49,24 +49,6 @@
   photo: '/members/黄秀丽.jpg'
   category: 'Students'
 
-#- name: '王腾龙 Tenglong Wang'
-#  role: 'Master student (2023)'
-#  email: 'wangtl156@gmail.com'
-#  photo: '/members/王腾龙.jpg'
-#  category: 'Students'
-
-#- name: '于嘉豪 Jiahao Yu'
-#  role: 'Master student (2023)'
-#  email: 'yjh200319@gmail.com'
-#  photo: '/members/于嘉豪.jpg'
-#  category: 'Students'
-
-#- name: '翟亚哲 Yazhe Zhai'
-#  role: 'Master student (2023)'
-#  email: 'zhaiyazhe@gmail.com'
-#  photo: '/members/翟亚哲.jpg'
-#  category: 'Students'
-
 - name: '曹书鑫 Shuxin Cao'
   role: 'Master student (2024)'
   email: '124106010740@njust.edu.cn'
@@ -163,22 +145,34 @@
   photo: '/members/谢念芳.jpg'
   category: 'Students'
 
-#- name: '和岚翔 Lanxiang He'
-#  role: 'Undergrad student (2022)'
-#  email: 'lanxianghe809@gmail.com'
-#  photo: '/members/和岚翔.jpg'
-#  category: 'Students'
-
-#- name: '李俊浩 Morgan Lee'
-#  role: 'Undergrad student (2022)'
-#  email: 'm.junhao.lee@gmail.com'
-#  photo: '/members/李俊浩.jpg'
-#  category: 'Students'
-
 - name: 'Nurlan Hajizada'
   role: 'Undergrad student (2024)'
   email: 'nurlanhajizadeh34@gmail.com'
   photo: '/members/nurlan.jpg'
+  category: 'Students'
+
+- name: '陈乐辙'
+  role: ' Undergrad student (2024)'
+  email: 'chenlezhe@njust.edu.cn'
+  photo: '/members/陈乐辙.jpg'
+  category: 'Students'
+
+- name: '何香颖'
+  role: ' Undergrad student (2025)'
+  email: 'hxy13635418439@outlook.com'
+  photo: '/members/何香颖.jpg'
+  category: 'Students'
+
+- name: '苏子涵'
+  role: ' Visting Student'
+  email: 'sxxfrghc@gmail.com'
+  photo: '/members/苏子涵.jpg'
+  category: 'Students'
+
+- name: '罗奇'
+  role: ' Visting Student'
+  email: '3363347550@qq.com'
+  photo: '/members/罗奇.jpg'
   category: 'Students'
 
 # ── Alumni ───────────────────────────────────────────────────────────────────
