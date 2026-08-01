@@ -116,7 +116,7 @@
   abstract: ''
 
 - title: 'An anatomically curated fiber clustering white matter atlas for consistent white matter tract parcellation across the lifespan'
-  authors: 'Fan Zhang, Ye Wu, Isaiah Norton, Laura Rigolo, Yogesh Rathi, Nikos Makris, Lauren J O'Donnell'
+  authors: "Fan Zhang, Ye Wu, Isaiah Norton, Laura Rigolo, Yogesh Rathi, Nikos Makris, Lauren J O'Donnell"
   venue: 'Neuroimage'
   year: 2018
   type: 'journal'
@@ -226,14 +226,14 @@
 - title: 'Dense Mapping of Microstructural Development in the Human Brain During the First Two Years of Life'
   authors: 'Khoi Minh Huynh, Ye Wu, Kim-Han Thung, Geng Chen, Weili Lin, Dinggang Shen, Pew-Thian Yap'
   venue: ''
-  year: 0000
+  year: 0
   type: 'conference'
   doi: ''
   pdf: ''
   abstract: ''
 
 - title: 'Test--retest reproducibility of white matter parcellation using diffusion MRI tractography fiber clustering'
-  authors: 'Fan Zhang, Ye Wu, Isaiah Norton, Yogesh Rathi, Alexandra J Golby, Lauren J O'Donnell'
+  authors: "Fan Zhang, Ye Wu, Isaiah Norton, Yogesh Rathi, Alexandra J Golby, Lauren J O'Donnell"
   venue: 'Human brain mapping'
   year: 2019
   type: 'journal'
@@ -251,7 +251,7 @@
   abstract: ''
 
 - title: 'White matter parcellation test-retest reproducibility of diffusion MRI tractography fiber clustering'
-  authors: 'Fan Zhang, Ye Wu, Isaiah Norton, Alexandra J. Rathi, Yogesh, Golby, Lauren J. O'Donnell'
+  authors: "Fan Zhang, Ye Wu, Isaiah Norton, Alexandra J. Rathi, Yogesh, Golby, Lauren J. O'Donnell"
   venue: 'Proceedings of the International Society of Magnetic Resonance in Medicine (ISMRM)'
   year: 2019
   type: 'conference'
@@ -460,7 +460,7 @@
 - title: 'The IronTract challenge: Validation and optimal tractography methods for the HCP diffusion acquisition scheme'
   authors: 'Jonathan Rafael-Patino Barakovic, Thomas Yu, Gaël Rensonnet'
   venue: ''
-  year: 0000
+  year: 0
   type: 'journal'
   doi: ''
   pdf: ''
@@ -514,7 +514,7 @@
 - title: 'Multivariate Quantification of Brain Development During the First Two Years of Life'
   authors: 'Khoi Minh Huynh, Ye Wu, Kim-Han Thung, Sahar Ahmad, Hoyt Patrick Taylor IV, Weili Lin'
   venue: ''
-  year: 0000
+  year: 0
   type: 'journal'
   doi: ''
   pdf: ''
@@ -685,7 +685,7 @@
 - title: 'Tackling Degeneracy in Linear Tensor Encoding Diffusion MRI'
   authors: 'Khoi Minh Huynh, Ye Wu, Hoyt Patrick Taylor IV, Weili Lin, Pew-Thian Yap'
   venue: ''
-  year: 0000
+  year: 0
   type: 'journal'
   doi: ''
   pdf: ''
@@ -703,7 +703,7 @@
 - title: 'Quantifying Intra-Soma Diffusion Properties via Spherical Mean Spectrum Imaging'
   authors: 'Khoi Minh Huynh, Ye Wu, Kim-Han Thung, Sahar Ahmad, Hoyt Patrick Taylor IV, Weili Lin, Pew-Thian Yap'
   venue: ''
-  year: 0000
+  year: 0
   type: 'journal'
   doi: ''
   pdf: ''
@@ -721,7 +721,7 @@
 - title: '50-Fold Acceleration of Diffusion MRI via Slice-Interleaved Diffusion Encoding (SIDE)'
   authors: 'Yoonmi Hong, Wei-Tang Chang, Geng Chen, Ye Wu, Weili Lin, Dinggang Shen, Pew-Thian Yap'
   venue: ''
-  year: 0000
+  year: 0
   type: 'journal'
   doi: ''
   pdf: ''
@@ -748,7 +748,7 @@
 - title: 'New insights from the IronTract challenge: Simple post-processing enhances the accuracy of diffusion tractography'
   authors: 'Mert E Yildiz, Ali Gholipour, Andrea Quattrone, Aldo Quattrone, Pew-Thian Yap, Alberto de Luca, Josien Pluim, Alexander Lemans, Vivek Prabhakaran, Barbara B Bendlin, others'
   venue: ''
-  year: 0000
+  year: 0
   type: 'journal'
   doi: ''
   pdf: ''
@@ -865,7 +865,7 @@
 - title: 'Harmonization of Cortical Thickness Measurements Throughout the Human Lifespan'
   authors: 'Sahar Ahmad, Fang Nan, Ye Wu, Zhengwang Wu, Weili Lin, Li Wang, Gang Li, Di Wu, Pew-Thian Yap'
   venue: ''
-  year: 0000
+  year: 0
   type: 'journal'
   doi: ''
   pdf: ''
@@ -901,7 +901,7 @@
 - title: 'The Art, Science, and Secrets of Scanning Young Children'
   authors: 'Brittany Howell, Douglas C Dean III'
   venue: ''
-  year: 0000
+  year: 0
   type: 'journal'
   doi: ''
   pdf: ''
@@ -917,7 +917,7 @@
   abstract: ''
 
 - title: 'Building Resilience to Natural Hazards in the Context of Climate Change'
-  authors: 'G'e Hutter'
+  authors: "G'e Hutter"
   venue: 'Springer Fachmedien Wiesbaden'
   year: 2021
   type: 'journal'
@@ -962,7 +962,7 @@
   abstract: ''
 
 - title: 'Patch-based techniques in medical imaging'
-  authors: 'Guorong Wu, Coup'e'
+  authors: "Guorong Wu, Coup'e"
   venue: 'Springer International Publishing Cham'
   year: 2016
   type: 'journal'
@@ -1171,7 +1171,7 @@
 - title: 'A Multimodal Atlas of the Human Cerebellum at 760 μm Resolution'
   authors: 'Wenjiao Lyu, Ye Wu, Khoi Minh Huynh, Sahar Ahmad, Pew-Thian Yap'
   venue: ''
-  year: 0000
+  year: 0
   type: 'journal'
   doi: ''
   pdf: ''
@@ -1414,7 +1414,7 @@
 - title: 'Test-Retest Reproducibility of White Matter Parcellation Using Diffusion MRI Tractography Fiber Clustering'
   authors: 'Fan Zhang, Ye Wu, Isaiah Norton, Yogesh Rathi, Alexandra J. Golby, and Lauren J. O’Donnell'
   venue: 'Human Brain Mapping'
-  year: 0000
+  year: 0
   type: 'journal'
   doi: ''
   pdf: ''
@@ -1423,7 +1423,7 @@
 - title: 'Oct. 2018. An anatomically curated fiber clustering white matter atlas for consistent white matter tract parcellation across the lifespan'
   authors: 'Fan Zhang, Ye Wu, I Norton, L Rigolo, Y Rathi, N Makris, LJ O’Donnell'
   venue: 'Neuroimage'
-  year: 0000
+  year: 0
   type: 'journal'
   doi: ''
   pdf: ''
@@ -1432,7 +1432,7 @@
 - title: 'Creation of a cross-population white matter atlas for concurrent mapping of brain connections between Eastern and Western populations'
   authors: 'Yijie Li, Wei Zhang, Ye Wu, Li Yin, Yuqian Chen, Suheyla Cetin-Karayumak, Kang Ik Kevin Cho, Leo R Zekelman, Jarrett Rushmore, Yogesh Rathi, others'
   venue: ''
-  year: 0000
+  year: 0
   type: 'journal'
   doi: ''
   pdf: ''
@@ -1450,7 +1450,7 @@
 - title: 'Uncertainty-Aware Anatomical Brain Parcellation using Diffusion MRI'
   authors: 'Chenjun Li, Ye Wu, Le Zhang, Qiannuo Li, Shuyue Wang, Shun Yao, Kang Ik Kevin Cho, Johanna Seitz-Holland, Lipeng Ning, Jon Haitz Legarreta, others'
   venue: ''
-  year: 0000
+  year: 0
   type: 'journal'
   doi: ''
   pdf: ''
@@ -1619,7 +1619,7 @@
   abstract: ''
 
 - title: 'DDTracking: A Deep Generative Framework for Diffusion MRI Tractography with Streamline Local-Global Spatiotemporal Modeling'
-  authors: 'Yijie Li, Wei Zhang, Xi Zhu, Ye Wu, Yogesh Rathi, Lauren J O'Donnell, Fan Zhang'
+  authors: "Yijie Li, Wei Zhang, Xi Zhu, Ye Wu, Yogesh Rathi, Lauren J O'Donnell, Fan Zhang"
   venue: 'arXiv preprint arXiv:2508.04568'
   year: 2025
   type: 'journal'
@@ -1639,7 +1639,7 @@
 - title: 'Multi-scale convolutional adversarial autoencoder-based anomaly detector for lesion edge localization on diffusion MRI'
   authors: 'Shuxin Cao, Tenglong Wang, Qingwei You, Yifei He, Jiaolong Qin, Ye Wu'
   venue: ''
-  year: 0000
+  year: 0
   type: 'journal'
   doi: ''
   pdf: ''
@@ -1648,7 +1648,7 @@
 - title: 'Toward Anatomical Pathways Changes in the Brain During Pregnancy with A Novel Multi-Scale Shape Analysis Method'
   authors: 'Yu Xie, Yifei He, Yazhe Zhai, Tenglong Wang, Jiahao Yu, Jiaolong Qin, Ye Wu'
   venue: ''
-  year: 0000
+  year: 0
   type: 'journal'
   doi: ''
   pdf: ''
@@ -1657,7 +1657,7 @@
 - title: 'Jointly Multi-Model Microstructural Estimation on Diffusion MRI with Contextual Features Aggregation'
   authors: 'Tenglong Wang, Jiahao Yu, Yu Xie, Yifei He, Yazhe Zhai, Jiaolong Qin, Ye Wu'
   venue: ''
-  year: 0000
+  year: 0
   type: 'journal'
   doi: ''
   pdf: ''
@@ -1666,7 +1666,7 @@
 - title: 'Lesion detection in stroke patients based on intra-modality features on Diffusion MRI'
   authors: 'Shuxin Cao, Yifei He, Tenglong Wang, Jiaolong Qin, Ye Wu'
   venue: ''
-  year: 0000
+  year: 0
   type: 'journal'
   doi: ''
   pdf: ''
@@ -1693,7 +1693,7 @@
 - title: 'Neurite Microstructure Characterization in the Mouse Brain Using Relaxation-Diffusion MRI'
   authors: 'Baoxing Ren, Ye Wu, Quan Tao, Yanqiu Feng, Xinyuan Zhang'
   venue: ''
-  year: 0000
+  year: 0
   type: 'journal'
   doi: ''
   pdf: ''
@@ -1702,7 +1702,7 @@
 - title: 'Computational Diffusion MRI'
   authors: 'Elisenda Bonet-Carne, Francesco Grussu, Lipeng Ning, Farshid Sepehrband, Chantal MW Tax'
   venue: 'Springer'
-  year: 0000
+  year: 0
   type: 'journal'
   doi: ''
   pdf: ''
@@ -1711,7 +1711,7 @@
 - title: 'Explore the Heterogeneity in Gender Identity across Brain Morphology and Personality Traits'
   authors: 'Hiuying Yip, Yifei He, Jiaolong Qin, Ye Wu'
   venue: ''
-  year: 0000
+  year: 0
   type: 'journal'
   doi: ''
   pdf: ''
@@ -1720,7 +1720,7 @@
 - title: 'Multifaceted Atlas of Superficial White Matter Pathway Using Ultra-High-Field Diffusion MRI'
   authors: 'Yifei He, Yoonmi Hong, Yu Xie, Tenglong Wang, Jiaolong Qin, Ye Wu'
   venue: ''
-  year: 0000
+  year: 0
   type: 'journal'
   doi: ''
   pdf: ''
@@ -1729,7 +1729,7 @@
 - title: 'A Deep Diffusion Model Approach for Diffusion MRI White Matter Fiber Tractography'
   authors: 'Yijie Li, Wei Zhang, Xi Zhu, Ye Wu, Yogesh Rathi, Lauren J O’Donnell, Fan Zhang'
   venue: ''
-  year: 0000
+  year: 0
   type: 'journal'
   doi: ''
   pdf: ''
@@ -1828,7 +1828,7 @@
 - title: 'Automated Mapping of Cranial Nerves Pathways in Human Brain: A Multi-Parametric Multi-Stage Diffusion Tractography Atlas'
   authors: 'Lei Xie, Qingrun Zeng, Ye Wu, Yuanjing Feng'
   venue: ''
-  year: 0000
+  year: 0
   type: 'journal'
   doi: ''
   pdf: ''
@@ -1837,7 +1837,7 @@
 - title: 'Connectome-based consensus graph learning for fine-scale subcortical parcellation'
   authors: 'Zhonghua Wan, Yu Xie, Yazhe Zhai, Lei Xie, Yifei He, Ye Wu'
   venue: ''
-  year: 0000
+  year: 0
   type: 'journal'
   doi: ''
   pdf: ''
@@ -1855,7 +1855,7 @@
 - title: 'Integrating Jacobian Determinant and LDDMM for Evaluating White Matter'
   authors: 'Zhaoxian Ming, Zhijian Yao, Yifei He, Yu Xie, Ye Wu, Jiaolong Qin'
   venue: ''
-  year: 0000
+  year: 0
   type: 'journal'
   doi: ''
   pdf: ''
@@ -2015,7 +2015,7 @@
   abstract: ''
 
 - title: 'TractoRC: A Unified Probabilistic Learning Framework for Joint Tractography Registration and Clustering'
-  authors: 'Yijie Li, Xi Zhu, Junyi Wang, Ye Wu, Lauren J O'Donnell, Fan Zhang'
+  authors: "Yijie Li, Xi Zhu, Junyi Wang, Ye Wu, Lauren J O'Donnell, Fan Zhang"
   venue: 'arXiv preprint arXiv:2603.10418'
   year: 2026
   type: 'journal'
