@@ -116,7 +116,7 @@
   abstract: ''
 
 - title: 'An anatomically curated fiber clustering white matter atlas for consistent white matter tract parcellation across the lifespan'
-  authors: "Fan Zhang, Ye Wu, Isaiah Norton, Laura Rigolo, Yogesh Rathi, Nikos Makris, Lauren J O'Donnell"
+  authors: 'Fan Zhang, Ye Wu, Isaiah Norton, Laura Rigolo, Yogesh Rathi, Nikos Makris, Lauren J O'Donnell'
   venue: 'Neuroimage'
   year: 2018
   type: 'journal'
@@ -233,7 +233,7 @@
   abstract: ''
 
 - title: 'Test--retest reproducibility of white matter parcellation using diffusion MRI tractography fiber clustering'
-  authors: "Fan Zhang, Ye Wu, Isaiah Norton, Yogesh Rathi, Alexandra J Golby, Lauren J O'Donnell"
+  authors: 'Fan Zhang, Ye Wu, Isaiah Norton, Yogesh Rathi, Alexandra J Golby, Lauren J O'Donnell'
   venue: 'Human brain mapping'
   year: 2019
   type: 'journal'
@@ -251,7 +251,7 @@
   abstract: ''
 
 - title: 'White matter parcellation test-retest reproducibility of diffusion MRI tractography fiber clustering'
-  authors: "Fan Zhang, Ye Wu, Isaiah Norton, Alexandra J. Rathi, Yogesh, Golby, Lauren J. O'Donnell"
+  authors: 'Fan Zhang, Ye Wu, Isaiah Norton, Alexandra J. Rathi, Yogesh, Golby, Lauren J. O'Donnell'
   venue: 'Proceedings of the International Society of Magnetic Resonance in Medicine (ISMRM)'
   year: 2019
   type: 'conference'
@@ -405,7 +405,7 @@
 
 - title: 'P4-287: PREDICTION OF 7-YEAR PROGRESSION FROM SUBJECTIVE COGNITIVE DECLINE TO MCI: EVIDENCE FROM THE CHINA LONGITUDINAL AGEING STUDY (CLAS)'
   authors: 'Ling Yue, Dan Hu, Han Zhang, Junhao Wen, Ye Wu, Tao Wang, Dinggang Shen, Shifu Xiao'
-  venue: "Alzheimer's & Dementia"
+  venue: 'Alzheimers & Dementia'
   year: 2019
   type: 'journal'
   doi: ''
@@ -448,7 +448,7 @@
   pdf: ''
   abstract: ''
 
-- title: "Prediction of 7-year's conversion from subjective cognitive decline to mild cognitive impairment"
+- title: 'Prediction of 7-years conversion from subjective cognitive decline to mild cognitive impairment'
   authors: 'Ling Yue, Dan Hu, Han Zhang, Junhao Wen, Ye Wu, Wei Li, Lin Sun, Xia Li, Jinghua Wang, Guanjun Li, others'
   venue: 'Human Brain Mapping'
   year: 2021
@@ -655,7 +655,7 @@
   pdf: ''
   abstract: ''
 
-- title: "Elevated neurofilament light chain in plasma is associated with reduced right hippocampal and amygdala volume in Alzheimer's patients"
+- title: 'Elevated neurofilament light chain in plasma is associated with reduced right hippocampal and amygdala volume in Alzheimers patients'
   authors: 'Wei Li, Ling Yue, Ye Wu, Lin Sun, Shifu Xiao'
   venue: ''
   year: 2020
@@ -917,7 +917,7 @@
   abstract: ''
 
 - title: 'Building Resilience to Natural Hazards in the Context of Climate Change'
-  authors: "G'e Hutter"
+  authors: 'G'e Hutter'
   venue: 'Springer Fachmedien Wiesbaden'
   year: 2021
   type: 'journal'
@@ -962,7 +962,7 @@
   abstract: ''
 
 - title: 'Patch-based techniques in medical imaging'
-  authors: "Guorong Wu, Coup'e"
+  authors: 'Guorong Wu, Coup'e'
   venue: 'Springer International Publishing Cham'
   year: 2016
   type: 'journal'
@@ -998,7 +998,7 @@
   abstract: ''
 
 - title: 'Alterations via inter-regional connective relationships in Alzheimer’s disease'
-  authors: "Xiaomei Ren, Bowen Dong, Ying Luan, Ye Wu, Yunzhi Huang, Alzheimer's Disease Neuroimaging Initiative"
+  authors: 'Xiaomei Ren, Bowen Dong, Ying Luan, Ye Wu, Yunzhi Huang, Alzheimers Disease Neuroimaging Initiative'
   venue: 'Frontiers in Human Neuroscience'
   year: 2023
   type: 'journal'
@@ -1361,7 +1361,7 @@
   authors: 'Ye Wu, Lanxiang He, Xinyuan Zhang, Fan Zhang'
   venue: 'Neuroimaging-From Research to Clinical Practice'
   year: 2024
-  type: 'incollection'
+  type: 'journal'
   doi: ''
   pdf: ''
   abstract: ''
@@ -1379,7 +1379,7 @@
   authors: 'Farhana Akter, Nigel Emptage, Florian Engert, Mitchel S Berger'
   venue: 'Cambridge University Press'
   year: 2024
-  type: 'book'
+  type: 'journal'
   doi: ''
   pdf: ''
   abstract: ''
@@ -1411,8 +1411,8 @@
   pdf: ''
   abstract: ''
 
-- title: 'Isaiah Norton, Yogesh Rathi, Alexandra J. Golby, and Lauren J. O’Donnell. 2019.“Test-Retest Reproducibility of White Matter Parcellation Using Diffusion MRI Tractography Fiber Clustering.”'
-  authors: 'Fan Zhang, Ye Wu'
+- title: 'Test-Retest Reproducibility of White Matter Parcellation Using Diffusion MRI Tractography Fiber Clustering'
+  authors: 'Fan Zhang, Ye Wu, Isaiah Norton, Yogesh Rathi, Alexandra J. Golby, and Lauren J. O’Donnell'
   venue: 'Human Brain Mapping'
   year: 0000
   type: 'journal'
@@ -1519,8 +1519,8 @@
   pdf: ''
   abstract: ''
 
-- title: "Corrigendum: Alterations via inter-regional connective relationships in Alzheimer's disease"
-  authors: "Xiaomei Ren, Bowen Dong, Ying Luan, Ye Wu, Yunzhi Huang, Alzheimer's Disease Neuroimaging Initiative"
+- title: 'Corrigendum: Alterations via inter-regional connective relationships in Alzheimers disease'
+  authors: 'Xiaomei Ren, Bowen Dong, Ying Luan, Ye Wu, Yunzhi Huang, Alzheimers Disease Neuroimaging Initiative'
   venue: 'Frontiers in Human Neuroscience'
   year: 2023
   type: 'journal'
@@ -1619,7 +1619,7 @@
   abstract: ''
 
 - title: 'DDTracking: A Deep Generative Framework for Diffusion MRI Tractography with Streamline Local-Global Spatiotemporal Modeling'
-  authors: "Yijie Li, Wei Zhang, Xi Zhu, Ye Wu, Yogesh Rathi, Lauren J O'Donnell, Fan Zhang"
+  authors: 'Yijie Li, Wei Zhang, Xi Zhu, Ye Wu, Yogesh Rathi, Lauren J O'Donnell, Fan Zhang'
   venue: 'arXiv preprint arXiv:2508.04568'
   year: 2025
   type: 'journal'
