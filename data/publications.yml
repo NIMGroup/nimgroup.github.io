@@ -1915,6 +1915,87 @@
   pdf: ''
   abstract: ''
 
+- title: 'White Matter Stratification in Depression Predicts Multidimensional Antidepressant Responses'
+  authors: 'Jiaolong Qin, Xinyi Wang, Huangjing Ni, Ye Wu, Haiyan Liu, Lingling Hua, Rui Yan, Hao Tang, Peng Zhao, Zhijian Yao, and others'
+  venue: 'eLife'
+  year: 2026
+  type: 'journal'
+  doi: ''
+  pdf: ''
+  abstract: ''
+
+- title: 'Superficial white matter microstructural impairments correlate with functional alterations and disease severity in early-stage amyotrophic lateral sclerosis'
+  authors: 'Shao-Peng Zhuang, Hui-Wei Huang, Jing-Yi Zeng, Jia-Yan Shi, Hong-Yu Lin, Sheng Chen, Ye Wu, Nao-Xin Huang, Zhang-Yu Zou, Hua-Jun Chen'
+  venue: 'La radiologia medica'
+  year: 2026
+  type: 'journal'
+  doi: ''
+  pdf: ''
+  abstract: ''
+
+- title: 'Detailed Connectomic Cluster Resource for White Matter Mapping From Ultra-High-Field Diffusion MRI'
+  authors: 'Hiuying Yip, Yifei He, Yu Xie, Fan Zhang, Ye Wu'
+  venue: 'NeuroImage'
+  year: 2026
+  type: 'journal'
+  doi: ''
+  pdf: ''
+  abstract: ''
+
+- title: 'Multi-organ network of cardiometabolic disease-depression multimorbidity revealed by phenotypic and genetic analyses of MR images'
+  authors: 'Jingxuan Wang, Mianxin Liu, Feng Liu, Guangrui Yang, Zhongshang Yuan, Hao Huang, Zixuan Zhang, Lilong Wang, Ye Wu, Wenliang Fan, and others'
+  venue: 'Nature Communications'
+  year: 2026
+  type: 'journal'
+  doi: ''
+  pdf: ''
+  abstract: ''
+
+- title: 'Constructing fine-grained subcortical atlases with connectional consensus graph representation learning'
+  authors: 'Zhonghua Wan, Peng Wang, Yazhe Zhai, Yu Xie, Yifei He, Ye Wu'
+  venue: 'Physics in Medicine and Biology'
+  year: 2026
+  type: 'journal'
+  doi: ''
+  pdf: ''
+  abstract: ''
+
+- title: 'Childhood chronic stress associated with abnormal brain white matter networks in first-episode, drug-naïve MDD adolescents: a machine learning study'
+  authors: 'Zhujun Wang, Zhaoxian Ming, Meijiang Jin, Maojia Ran, Hang Zhang, Yuanmei Tao, Hanmei Xu, Shoukang Zou, Ye Wu, Li Yin'
+  venue: 'Frontiers in Psychiatry'
+  year: 2026
+  type: 'journal'
+  doi: ''
+  pdf: ''
+  abstract: ''
+
+- title: 'DDTracking: A Diffusion Model-Based Deep Generative Framework with Local-Global Spatiotemporal Modeling for Diffusion MRI Tractography'
+  authors: 'Yijie Li, Wei Zhang, Xi Zhu, Ye Wu, Yogesh Rathi, Lauren J O’Donnell, Fan Zhang'
+  venue: 'Medical Image Analysis'
+  year: 2026
+  type: 'journal'
+  doi: ''
+  pdf: ''
+  abstract: ''
+
+- title: 'Revitalizing Quantitative Imaging with a High-Quality Microstructural Codebook on Diffusion MRI'
+  authors: 'Tenglong Wang, Jiahao Yu, Xiaoming Liu, Shuxin Cao, Yuanjing Feng, Ye Wu'
+  venue: '2025 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)'
+  year: 2025
+  type: 'conference'
+  doi: ''
+  pdf: ''
+  abstract: ''
+
+- title: 'Impairment of brain short association fibers across clinical stages in amyotrophic lateral sclerosis: a new biomarker mirroring disease progression'
+  authors: 'Nao-Xin Huang, Zi-Wei Cai, Shao-Peng Zhuang, Hong-Yu Lin, Sheng Chen, Zhang-Yu Zou, Ye Wu, Hua-Jun Chen'
+  venue: 'BMC Medicine'
+  year: 2026
+  type: 'journal'
+  doi: ''
+  pdf: ''
+  abstract: ''
+
 - title: 'Deep Learning Empowered Microstructure Codebook: New Paradigm for Multi-Parameter Tissue Characterization Estimation'
   authors: 'Tenglong Wang, Zhonghua Wan, Shuxin Cao, Jiahao Yu, Yifei He, Yu Xie, Fan Zhang, Ye Wu'
   venue: 'Human Brain Mapping'
@@ -1924,8 +2005,17 @@
   pdf: ''
   abstract: ''
 
+- title: 'Impairment of brain short association fibers across clinical stages in amyotrophic lateral sclerosis: a new biomarker mirroring disease progression'
+  authors: 'Ye Wu, Hua-Jun Chen'
+  venue: 'Springer'
+  year: 2026
+  type: 'journal'
+  doi: ''
+  pdf: ''
+  abstract: ''
+
 - title: 'TractoRC: A Unified Probabilistic Learning Framework for Joint Tractography Registration and Clustering'
-  authors: "Yijie Li, Xi Zhu, Junyi Wang, Ye Wu, Lauren J O'Donnell, Fan Zhang"
+  authors: 'Yijie Li, Xi Zhu, Junyi Wang, Ye Wu, Lauren J O'Donnell, Fan Zhang'
   venue: 'arXiv preprint arXiv:2603.10418'
   year: 2026
   type: 'journal'
