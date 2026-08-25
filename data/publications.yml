@@ -2094,3 +2094,48 @@
   doi: ''
   pdf: ''
   abstract: ''
+
+- title: 'Graph-Based White Matter Tractometry: Methods, Applications, and the Path to Validation'
+  authors: 'Junhao Li, Chengzhe Zhang, Zhonghua Wan, Yu Xie, Huifeng Zhang, Xiaoming Liu, Ye Wu'
+  venue: 'Neuroinformatics'
+  year: 2026
+  type: 'journal'
+  doi: ''
+  pdf: ''
+  abstract: ''
+
+- title: 'Prior-Guided Flexible Fine-Scale Brain Parcellation on Diffusion MRI in Extremely Label-Scarce Scenarios'
+  authors: 'Qingwei You, Zhonghua Wan, Jiahao Yu, Yifei He, Xiangxue Wang, Ye Wu'
+  venue: '2026 IEEE International Conference on Image Processing (ICIP)'
+  year: 2026
+  type: 'conference'
+  doi: ''
+  pdf: ''
+  abstract: ''
+
+- title: 'SF-Diff: Joint Spatial-Frequency Diffusion Model for Probing Human Brain Tissue Microarchitecture'
+  authors: 'Shuxin Cao, Chenzhe Zhang, Peng Wang, Zhonghua Wan, Jiaolong Qin, Ye Wu'
+  venue: '2026 IEEE International Conference on Image Processing (ICIP)'
+  year: 2026
+  type: 'conference'
+  doi: ''
+  pdf: ''
+  abstract: ''
+
+- title: 'Reduced neurite orientation in the neostriatum mediates the association between childhood trauma and cognitive impairment in major depressive disorder'
+  authors: 'Tenghuan Xu, Rubai Zhou, Wenxian Lu, Baichuan Wu, Ye Wu, Xinyue Teng, Huifeng Zhang, Daihui Peng'
+  venue: 'Translational Psychiatry'
+  year: 2026
+  type: 'journal'
+  doi: ''
+  pdf: ''
+  abstract: ''
+
+- title: 'Association Between Kynurenine Pathway and Cerebellar Microstructure in Bipolar Disorder With Childhood Trauma'
+  authors: 'Ming Yin, Huifeng Zhang, Huibin Pei, Rubai Zhou, Wenxian Lu, Baichuan Wu, Tenghuan Xu, Ye Wu, Xiangdong Du, Daihui Peng'
+  venue: 'Alpha Psychiatry'
+  year: 2026
+  type: 'journal'
+  doi: ''
+  pdf: ''
+  abstract: ''
