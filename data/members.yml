@@ -49,6 +49,30 @@
   photo: '/members/黄秀丽.jpg'
   category: 'Students'
 
+- name: '周丽娜 Lina Zhou'
+  role: 'PhD student (2026)'
+  email: 'zhoulina@njust.edu.cn'
+  photo: '/members/周丽娜.jpeg'
+  category: 'Students'
+
+- name: '陈朝伟 Chaowei Chen'
+  role: 'PhD student (2026)'
+  email: 'chishengchen@njust.edu.cn'
+  photo: '/members/陈朝伟.jpeg'
+  category: 'Students'
+
+- name: '齐龙飞 Longfei Qi'
+  role: 'PhD student (2026)'
+  email: 'qilongfei@njust.edu.cn'
+  photo: '/members/齐龙飞.jpeg'
+  category: 'Students'
+
+- name: 'Qoseen Zahra'
+  role: 'PhD student (2026)'
+  email: 'qoseenzahra@gmail.com'
+  photo: '/members/Zahra.png'
+  category: 'Students'
+
 - name: '曹书鑫 Shuxin Cao'
   role: 'Master student (2024)'
   email: '124106010740@njust.edu.cn'
