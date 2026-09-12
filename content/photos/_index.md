@@ -1,5 +1,5 @@
 ---
-title: "Photos"
-description: "Lab gatherings, conference snapshots, and moments from NIMGroup."
+title: 'Photos'
+description: ''
 hidemeta: true
 ---

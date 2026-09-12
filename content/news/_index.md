@@ -6,6 +6,9 @@ hidemeta: true
 
 | Date      |     | News                                                                                                                     |
 | :-------- | :-- | :----------------------------------------------------------------------------------------------------------------------- |
+| Aug 2026  |     | :sparkles: One paper was accepted by `Translational Psychiatry`                                                          |
+| Aug 2026  |     | :sparkles: One paper was accepted by `Chinese Physics B`                                                                 |
+| Aug 2026  |     | :sparkles: One paper was accepted by `Neuroinformatics`                                                                  |
 | June 2026 |     | :sparkles: One paper was accepted by `MICCAI 2026`                                                                       |
 | June 2026 |     | :sparkles: One paper was accepted by `iScience`                                                                          |
 | May 2026  |     | :sparkles: One paper was accepted by `Alpha Psychiatry`                                                                  |

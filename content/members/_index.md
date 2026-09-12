@@ -1,5 +1,5 @@
 ---
-title: "Member"
-description: "Members of NIMGroup."
+title: 'Member'
+description: ''
 hidemeta: true
 ---
