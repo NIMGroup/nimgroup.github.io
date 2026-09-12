@@ -41,10 +41,10 @@ menu:
 params:
   description: 'NIMG researches AI and machine learning for intelligent medicine, with a focus on neural navigation and image-enabled brain-computer interfaces.'
   author: NIMG
-  # googleAnalyticsID: "G-XXXXX"
+  googleAnalyticsID: 'G-NC33H059HJ'
   DateFormat: 'January 2006'
   defaultTheme: light
-  hideFooter: false
+  hideFooter: true
   disableThemeToggle: true
   ShowShareButtons: false
   ShowReadingTime: false
@@ -84,8 +84,8 @@ params:
         url: source/
       - name: News
         url: news/
-#      - name: Contact
-#        url: contact/
+  #      - name: Contact
+  #        url: contact/
 
   socialIcons:
     #- name: CV
@@ -94,10 +94,10 @@ params:
       url: mailto:dr.yewu@outlook.com
     #- name: Zoom
     #  url: https://www.zoom.us/my/igelfeld
-    - name: Location
-      url: location/
-    - name: Office Hours
-      url: officehours/
+    #- name: Location
+    #  url: location/
+    #- name: Office Hours
+    #  url: officehours/
     - name: Google Scholar
       url: https://scholar.google.com/citations?user=soMcNA8AAAAJ
     - name: GitHub
