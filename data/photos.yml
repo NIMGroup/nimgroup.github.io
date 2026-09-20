@@ -89,6 +89,21 @@
 - title: 'Conferences'
   description: 'Presentations and networking at academic venues.'
   photos:
+    - file: '/photos/conferences/ICIP_1.jpg'
+      alt: 'ICIP 2026 presentation'
+      caption: 'ICIP 2026'
+      size: wide
+
+    - file: '/photos/conferences/ICIP_2.jpg'
+      alt: 'ICIP 2026 presentation'
+      caption: 'ICIP 2026'
+      size: wide
+
+    - file: '/photos/conferences/ICIP_3.jpg'
+      alt: 'ICIP 2026 presentation'
+      caption: 'ICIP 2026 presentation'
+      size: normal
+
     - file: '/photos/conferences/BIBM2024_1.jpg'
       alt: 'MICCAI 2024 poster session'
       caption: 'MICCAI 2024'
