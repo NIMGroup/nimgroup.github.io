@@ -71,6 +71,21 @@
       caption: 'Lab Activity'
       size: wide
 
+    - file: '/photos/activities/sep2026_1.jpg'
+      alt: 'Lab gathering, autumn 2026'
+      caption: 'Autumn Gathering 2026'
+      size: normal
+
+    - file: '/photos/activities/sep2026_3.jpg'
+      alt: 'Lab gathering, autumn 2026'
+      caption: 'Autumn Gathering 2026'
+      size: normal
+
+    - file: '/photos/activities/sep2026_2.jpg'
+      alt: 'Lab gathering, autumn 2026'
+      caption: 'Autumn Gathering 2026'
+      size: wide
+
 - title: 'Conferences'
   description: 'Presentations and networking at academic venues.'
   photos:
