@@ -92,12 +92,12 @@
     - file: '/photos/conferences/ICIP2026_1.jpg'
       alt: 'ICIP 2026 presentation'
       caption: 'ICIP 2026'
-      size: wide
+      size: tall
 
     - file: '/photos/conferences/ICIP2026_2.jpg'
       alt: 'ICIP 2026 presentation'
       caption: 'ICIP 2026'
-      size: wide
+      size: tall
 
     - file: '/photos/conferences/ICIP2026_3.jpg'
       alt: 'ICIP 2026 presentation'
