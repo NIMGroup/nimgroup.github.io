@@ -6,6 +6,7 @@ hidemeta: true
 
 | Date      |     | News                                                                                                                     |
 | :-------- | :-- | :----------------------------------------------------------------------------------------------------------------------- |
+| Sep 2026  |     | :sparkles: One paper was accepted by `IEEE BIBM`                                                                         |
 | Aug 2026  |     | :sparkles: One paper was accepted by `Translational Psychiatry`                                                          |
 | Aug 2026  |     | :sparkles: One paper was accepted by `Chinese Physics B`                                                                 |
 | Aug 2026  |     | :sparkles: One paper was accepted by `Neuroinformatics`                                                                  |
