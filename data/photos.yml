@@ -212,7 +212,7 @@
     - file: '/photos/conferences/VALSE204_2.jpg'
       alt: 'VALSE 2024 conference'
       caption: 'VALSE 2024'
-      size: tall
+      size: normal
 
     - file: '/photos/conferences/IMG_4699.jpeg'
       alt: 'Conference'
@@ -237,7 +237,7 @@
     - file: '/photos/conferences/IMG_4703.jpeg'
       alt: 'Conference'
       caption: 'Conference'
-      size: tall
+      size: normal
 
     - file: '/photos/conferences/IMG_5797.jpeg'
       alt: 'Conference'
@@ -267,7 +267,7 @@
     - file: '/photos/conferences/conf4.jpg'
       alt: 'Conference'
       caption: 'Conference'
-      size: tall
+      size: normal
 
     - file: '/photos/conferences/conf5.jpg'
       alt: 'Conference'
@@ -297,4 +297,4 @@
     - file: '/photos/conferences/conf10.jpg'
       alt: 'Conference'
       caption: 'Conference'
-      size: tall
+      size: wide
