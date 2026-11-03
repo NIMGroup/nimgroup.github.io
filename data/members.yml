@@ -115,11 +115,11 @@
   photo: '/members/李羽姗.jpg'
   category: 'Students'
 
-- name: '任硕萌 Shuomeng Ren'
-  role: 'Master student (2025)'
-  email: 'shuomengren.njust@gmail.com'
-  photo: '/members/任硕萌.jpg'
-  category: 'Students'
+#- name: '任硕萌 Shuomeng Ren'
+#  role: 'Master student (2025)'
+#  email: 'shuomengren.njust@gmail.com'
+#  photo: '/members/任硕萌.jpg'
+#  category: 'Students'
 
 - name: '孙梦茹 Mengru Sun'
   role: 'Master student (2025)'
@@ -151,11 +151,11 @@
   photo: '/members/严孝东.jpg'
   category: 'Students'
 
-- name: '赵天骏 Tianjun Zhao'
-  role: 'Master student (2025)'
-  email: 'zhaotianjun.njust@gmail.com'
-  photo: '/members/赵天骏.jpg'
-  category: 'Students'
+#- name: '赵天骏 Tianjun Zhao'
+#  role: 'Master student (2025)'
+#  email: 'zhaotianjun.njust@gmail.com'
+#  photo: '/members/赵天骏.jpg'
+#  category: 'Students'
 
 - name: '唐钰菲 Yufei Tang'
   role: 'Master student (2026)'
