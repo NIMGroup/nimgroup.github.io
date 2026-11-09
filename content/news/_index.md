@@ -6,6 +6,8 @@ hidemeta: true
 
 | Date      |     | News                                                                                                                     |
 | :-------- | :-- | :----------------------------------------------------------------------------------------------------------------------- |
+| Nov 2026  |     | :sparkles: One paper was accepted by `Psychoneuroendocrinology`                                                                         |
+| Oct 2026  |     | :sparkles: One paper was accepted by `SPIE Medical Imaging`                                                                         |
 | Sep 2026  |     | :sparkles: One paper was accepted by `IEEE BIBM`                                                                         |
 | Aug 2026  |     | :sparkles: One paper was accepted by `Translational Psychiatry`                                                          |
 | Aug 2026  |     | :sparkles: One paper was accepted by `Chinese Physics B`                                                                 |
